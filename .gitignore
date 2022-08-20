@@ -1,0 +1,10 @@
+
+*.sln
+*.csproj
+*.user
+*.ruleset
+
+**/.vs
+**/bin
+**/obj
+**/Properties
