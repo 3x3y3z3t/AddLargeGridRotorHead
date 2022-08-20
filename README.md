@@ -2,7 +2,7 @@ This is the repository for AddLargeGridRotorHead mod for Keen Software House's "
 This add a button to add Large grid Rotor Head for Small grid 3x3 Advanced Rotor.
 
 # AddLargeGridRotorHead
-![Thumbnail](thumb.png)
+![Thumbnail](Thumb.png)
 
 Link to mod: [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2851566403)
 
