@@ -10,4 +10,4 @@ Link to mod: [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2851
 - This works with WeaponCore.
 
 # Version
-Script version v1.0.1
+Script version v1.0.2
